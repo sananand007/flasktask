@@ -6,6 +6,18 @@
     flask run --host=0.0.0.0
     ```
 
+## Run
+```
+set FLASK_APP=flaskr
+set FLASK_ENV=development
+flask run
+```
+
+
+
+
+
+
 ## Read the docs
 + http://flask-.readthedocs.io/en/latest/cli/
 + http://flask.pocoo.org/docs/
@@ -18,6 +30,7 @@
     + http://flask.pocoo.org/extensions/
     + https://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/
 + **jinja2** - http://jinja.pocoo.org/docs/2.10/
++ Go through this link for comprehensive details : https://github.com/pallets/flask/tree/master/examples/tutorial
 
 ## Issues
 + If you see the err: https://github.com/pallets/flask/issues/2543
