@@ -1,9 +1,7 @@
 ## To run a Flask program (windows)
-    + set FLASK_APP = start.py
-    + python -m flask run
-        <running on htpp://127.0.0.1:5000/>
-
-    + If you have the debugger disabled, you can make the server publicly available,
++ set FLASK_APP = start.py
++ python -m flask run <running on htpp://127.0.0.1:5000/>
++ If you have the debugger disabled, you can make the server publicly available,
     ```
     flask run --host=0.0.0.0
     ```
@@ -23,3 +21,5 @@
 
 ## Issues
     + If you see the err: https://github.com/pallets/flask/issues/2543
+## Git problem
+    + https://stackoverflow.com/questions/22532943/how-to-resolve-git-error-updates-were-rejected-because-the-tip-of-your-current
