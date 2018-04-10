@@ -1,0 +1,4 @@
+graft onepiece/templates
+graft onepiece/static
+include onepiece.schema.sql
+onepiece/__init__.py

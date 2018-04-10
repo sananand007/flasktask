@@ -1,0 +1,8 @@
+MANIFEST.in
+onepiece/__init__.py
+onepiece/onepiece.py
+onepiece.egg-info/PKG-INFO
+onepiece.egg-info/SOURCES.txt
+onepiece.egg-info/dependency_links.txt
+onepiece.egg-info/requires.txt
+onepiece.egg-info/top_level.txt
